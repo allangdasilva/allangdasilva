@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👨‍💻 Allan Silva
 
-<!--
-**allangdasilva/allangdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Sou Allan, um desenvolvedor front-end em início de carreira. Tenho uma base sólida em HTML, CSS, SCSS e JavaScript e estou constantemente aprimorando minhas habilidades. Atualmente, estou me dedicando ao aprendizado de React, com o objetivo de criar soluções modernas e interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Foco Atual
+
+Aprimorando habilidades em React e Tailwind CSS Criando interfaces modernas e altamente dinâmicas.
+
+## 📚 Linguagens e Tecnologias
+
+<img 
+    align='left'
+    alt='HTML'
+    title='HTML'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
+/>
+<img 
+    align='left'
+    alt='CSS'
+    title='CSS'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" 
+/>
+<img 
+    align='left'
+    alt='SCSS'
+    title='SCSS'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align='left'
+    alt='Tailwind CSS'
+    title='Tailwind CSS'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align='left'
+    alt='jQuery'
+    title='jQuery'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" 
+/>
+<img 
+    align='left'
+    alt='JavaScript'
+    title='JavaScript'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+/>
+<img 
+    align='left'
+    alt='Git'
+    title='Git'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allangdasilva&layout=compact&theme=tokyonight&custom_title=Tecnologias)
+
