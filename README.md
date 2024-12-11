@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou Allan, um desenvolvedor front-end em início de carreira. Tenho uma base sólida em HTML, CSS, SCSS e JavaScript e estou constantemente aprimorando minhas habilidades. Atualmente, estou me dedicando ao aprendizado de React, com o objetivo de criar soluções modernas e interativas.
+Sou Allan, um desenvolvedor front-end em início de carreira. Tenho uma base sólida em HTML, CSS e JavaScript e estou constantemente aprimorando minhas habilidades. Atualmente, estou me dedicando ao aprendizado de React e Tailwind, com o objetivo de criar soluções modernas e interativas.
 
 ## 💡 Foco Atual
 
