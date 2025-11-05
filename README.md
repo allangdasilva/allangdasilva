@@ -1,12 +1,12 @@
 # 👨‍💻 Allan Silva
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Front-End & UI/UX Designer`**
 
-Sou Allan, um desenvolvedor front-end em início de carreira. Tenho uma base sólida em HTML, CSS e JavaScript e estou constantemente aprimorando minhas habilidades. Atualmente, estou me dedicando ao aprendizado de React e Tailwind, com o objetivo de criar soluções modernas e interativas.
+Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Tenho experiência em UI/UX Design e venho aprofundando meus conhecimentos em React e Next.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
 
 ## 💡 Foco Atual
 
-Aprimorando habilidades em React e Tailwind CSS Criando interfaces modernas e altamente dinâmicas.
+Aprimorando habilidades em React e Next.js criando interfaces dinâmicas.
 
 ## 📚 Linguagens e Tecnologias
 
@@ -60,11 +60,59 @@ Aprimorando habilidades em React e Tailwind CSS Criando interfaces modernas e al
 />
 <img 
     align='left'
+    alt='TypeScript'
+    title='TypeScript'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align='left'
+    alt='React'
+    title='React'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align='left'
+    alt='Next.js'
+    title='Next.js'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align='left'
+    alt='Redux'
+    title='Redux'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+/>
+<img 
+    align='left'
     alt='Git'
     title='Git'
     width='40px'
     style='padding-right: 10px'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+/>
+<img 
+    align='left'
+    alt='Figma'
+    title='Figma'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align='left'
+    alt='Photoshop'
+    title='Photoshop'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
 
 <br/>
