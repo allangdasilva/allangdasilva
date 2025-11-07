@@ -1,8 +1,8 @@
 # 👨‍💻 Allan Silva
 
-**`Desenvolvedor Front-End & UI/UX Designer`**
+**`Desenvolvedor Front-End & UX/UI Designer`**
 
-Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UI/UX Design e venho aprofundando meus conhecimentos em React e Next.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
+Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UX/UI Design e venho aprofundando meus conhecimentos em React e Next.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
 
 ## 💡 Foco Atual
 
