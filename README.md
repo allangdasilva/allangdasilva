@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Front-End & UX/UI Designer`**
 
-Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UX/UI Design e venho aprofundando meus conhecimentos em React e Next.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
+Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UX/UI Design e venho aprofundando meus conhecimentos em React, Next.js e Angular para desenvolver aplicações rápidas, responsivas e bem estruturadas.
 
 ## 💡 Foco Atual
 
-Aprimorando habilidades em React e Next.js criando interfaces dinâmicas.
+Aprimorando habilidades em React, Next.js e Angular criando interfaces dinâmicas.
 
 ## 📚 Linguagens e Tecnologias
 
@@ -81,6 +81,14 @@ Aprimorando habilidades em React e Next.js criando interfaces dinâmicas.
     width='40px'
     style='padding-right: 10px'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align='left'
+    alt='Angular'
+    title='Angular'
+    width='40px'
+    style='padding-right: 10px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align='left'
