@@ -129,15 +129,8 @@ Aprimorando habilidades em React, Next.js, Angular e Back end com Node.js.
     alt='Photoshop'
     title='Photoshop'
     width='40px'
-    style='padding-right: 10px; padding-bottom: 10px'
+    style='padding-right: 10px'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
 
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allangdasilva&layout=compact&theme=tokyonight&custom_title=Tecnologias)
 
