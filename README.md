@@ -6,7 +6,7 @@ Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiênci
 
 ## 💡 Foco Atual
 
-Aprimorando habilidades em React, Next.js, Angular e Back end com Node.js.
+Aprimorando habilidades em React, Next.js e Back end com Node.js.
 
 ## 📚 Linguagens e Tecnologias
 
