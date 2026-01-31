@@ -1,136 +1,46 @@
-# 👨‍💻 Allan Silva
+# Allan Silva
 
 **`Desenvolvedor Front-End & UX/UI Designer`**
 
+<div>
+    <a href="https://www.linkedin.com/in/allangdasilva/" target="_blank" rel="noopener noreferrer">
+        <img title="Linkedin/allangdasilva" src="https://img.shields.io/badge/linkedin-none?style=for-the-badge&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    </a>
+    <a href="https://portfolio-allan-silva.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img title="Portfólio Allan Silva" src="https://img.shields.io/badge/portfolio-none?style=for-the-badge&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    </a>
+</div>
+
+<br />
+
 Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UX/UI Design e venho aprofundando meus conhecimentos em React, Next.js e Back end com Node.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
 
-## 💡 Foco Atual
+<br />
 
-Aprimorando habilidades em React, Next.js e Back end com Node.js.
+## Front-End & Design
 
-## 📚 Linguagens e Tecnologias
+<div>
+    <img title="React" src="https://img.shields.io/badge/React-none?style=for-the-badge&logo=react&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="Next.js" src="https://img.shields.io/badge/Next.js-none?style=for-the-badge&logo=nextdotjs&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-none?style=for-the-badge&logo=tailwindcss&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="SASS" src="https://img.shields.io/badge/sass-none?style=for-the-badge&logo=sass&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="Figma" src="https://img.shields.io/badge/figma-none?style=for-the-badge&logo=figma&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+</div>
 
-<img 
-    align='left'
-    alt='HTML'
-    title='HTML'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
-/>
-<img 
-    align='left'
-    alt='CSS'
-    title='CSS'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" 
-/>
-<img 
-    align='left'
-    alt='SCSS'
-    title='SCSS'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align='left'
-    alt='Tailwind CSS'
-    title='Tailwind CSS'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align='left'
-    alt='jQuery'
-    title='jQuery'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" 
-/>
-<img 
-    align='left'
-    alt='JavaScript'
-    title='JavaScript'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
-<img 
-    align='left'
-    alt='TypeScript'
-    title='TypeScript'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align='left'
-    alt='React'
-    title='React'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align='left'
-    alt='Next.js'
-    title='Next.js'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align='left'
-    alt='Angular'
-    title='Angular'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align='left'
-    alt='Redux'
-    title='Redux'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
-/>
-<img 
-    align='left'
-    alt='Git'
-    title='Git'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
-/>
-<img 
-    align='left'
-    alt='SQLite'
-    title='SQLite'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
-/>
-<img 
-    align='left'
-    alt='Figma'
-    title='Figma'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+## Linguagens & Ferramentas
 
+<div>
+    <img title="JavaScript" src="https://img.shields.io/badge/javascript-none?style=for-the-badge&logo=javascript&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="TypeScript" src="https://img.shields.io/badge/Typescript-none?style=for-the-badge&logo=typescript&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="Git" src="https://img.shields.io/badge/git-none?style=for-the-badge&logo=git&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="GitHub" src="https://img.shields.io/badge/github-none?style=for-the-badge&logo=github&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+</div>
 
-<img 
-    align='left'
-    alt='Photoshop'
-    title='Photoshop'
-    width='40px'
-    style='padding-right: 10px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
+## Backend & Banco de dados
+
+<div>
+    <img title="Node.js" src="https://img.shields.io/badge/node.js-none?style=for-the-badge&logo=nodedotjs&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+    <img title="SQLite" src="https://img.shields.io/badge/sqlite-none?style=for-the-badge&logo=sqlite&logoColor=%2337F230&logoSize=auto&color=5944A6" />
+</div>
 
 
