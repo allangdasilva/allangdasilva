@@ -13,7 +13,7 @@
 
 <br />
 
-Sou Allan, desenvolvedor Front-End com foco em interfaces modernas e experiências intuitivas. Estou desenvolvendo habilidades em UX/UI Design e venho aprofundando meus conhecimentos em React, Next.js e Back end com Node.js para desenvolver aplicações rápidas, responsivas e bem estruturadas.
+Sou Allan, desenvolvedor Front-end focado em interfaces modernas e experiências intuitivas. Atualmente, estudo React e aprofundo meus conhecimentos em Back-end com Node.js para criar aplicações completas.
 
 <br />
 
