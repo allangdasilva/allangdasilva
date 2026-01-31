@@ -13,9 +13,7 @@
 
 <br />
 
-Sou Allan, desenvolvedor Front-end focado em interfaces modernas e experiências intuitivas. Atualmente, estudo React e aprofundo meus conhecimentos em Back-end com Node.js para criar aplicações completas.
-
-<br />
+Sou um desenvolvedor Front-end focado em interfaces modernas e experiências intuitivas. Atualmente, estudo React e aprofundo meus conhecimentos em Back-end com Node.js para criar aplicações completas.
 
 ## Front-End & Design
 
