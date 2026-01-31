@@ -1,6 +1,6 @@
 # Allan Silva
 
-**`Desenvolvedor Front-End & UX/UI Designer`**
+<img width="1280" height="320" alt="capa-github" src="https://github.com/user-attachments/assets/14440679-88e6-4695-848e-c518a7552be7" />
 
 <div>
     <a href="https://www.linkedin.com/in/allangdasilva/" target="_blank" rel="noopener noreferrer">
